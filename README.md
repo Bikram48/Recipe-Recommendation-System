@@ -38,6 +38,6 @@ Before running the program, ensure you have the following:
    - Change the runtime to GPU:
      - Go to `Runtime > Change runtime type > Select GPU`.
 
-Dataset Link - https://www.kaggle.com/datasets/paultimothymooney/recipenlg \n
-Colab Link - https://colab.research.google.com/drive/1KeTPg8Y0OhR2qNeQkEH3NTkU0yY82Qoo?usp=sharing \n
+Dataset Link - https://www.kaggle.com/datasets/paultimothymooney/recipenlg  
+Colab Link - https://colab.research.google.com/drive/1KeTPg8Y0OhR2qNeQkEH3NTkU0yY82Qoo?usp=sharing  
 Trained Model Link - https://drive.google.com/drive/folders/119u1MTvJ-dfcWHaO99Itz4lXMtxPmdFH?usp=sharing
